@@ -1,0 +1,10 @@
+.container
+{
+    background-color: rgb(243, 32, 32);
+    display: inline-flex;
+    
+}
+.items{
+    background-color: #666;
+    
+}
